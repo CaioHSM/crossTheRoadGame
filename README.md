@@ -1,5 +1,5 @@
 # crossTheRoadGame
-Rápida descrição do objetivo de fazer esse projeto
+Use the arrows of your keyboard to cross the road.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
